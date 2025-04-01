@@ -40,3 +40,4 @@
         <p><b>Input: </b>CSV. Refer to baseline_and_normalise.py for expected data structure</p>
         <p><b>Output: </b>Grpahs on terminal</p>        
 </ol>
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/MLP_ALS_MinMaxScaler.png">
