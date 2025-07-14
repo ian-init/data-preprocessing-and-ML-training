@@ -1,0 +1,5 @@
+pandas
+matplotlib
+peakutils
+scikit-learn
+tensorflow
