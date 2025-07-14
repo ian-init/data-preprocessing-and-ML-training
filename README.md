@@ -1,4 +1,4 @@
-<h3>description</h3>
+<h3>Description</h3>
 <p>The repository aims to build a data pipeline for chemical analysis ML model. The modules cleans, baseline, and normalized spectrometry readings. It also find the best paremeters for regression and MLP models (by singal-to-noise and Mean Squared Error (MSE)) and train the model.</p>
 
 
@@ -51,6 +51,6 @@
 </ol>
 <hr>
 <p>Output example</p>
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20sample/MLP_ALS_MinMaxScaler.png">
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20sample/ridge%20regression_wavelength_600-1400_alpha200_max_iter_none.png">
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20sample/MLP_ALS_StandardScaler_pred.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/MLP_ALS_MinMaxScaler.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/ridge%20regression_wavelength_600-1400_alpha200_max_iter_none.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/MLP_ALS_MinMaxScaler_pred.png">
