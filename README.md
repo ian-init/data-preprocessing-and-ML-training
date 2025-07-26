@@ -5,11 +5,11 @@
 <h3>Get started</h2>
 <ol>
 	<li>Python version 3.12 or before is required (to support TensorFlow (as of July 2025))</li>
-	<li>Run pip to install dependencies in ./requirements.txt</li>
+	<li>Essential package: pandas, matplotlib, peakutils, scikit-learn, tensorflow. (./requirements.txt)</li>
 </ol>
 
 
-<h3>Files hierarchy</h4>
+<h3>Files structure</h4>
 <ol>
     <li>
         <p><b>File: </b>consolidate_spectrums.py</p>
