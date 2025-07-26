@@ -51,6 +51,6 @@
 </ol>
 <hr>
 <p>Output example</p>
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/MLP_ALS_MinMaxScaler.png">
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/ridge%20regression_wavelength_600-1400_alpha200_max_iter_none.png">
-<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/trail%20result/MLP_ALS_MinMaxScaler_pred.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/Demo%20-%20Trail%20Result/MLP_ALS_MinMaxScaler.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/Demo%20-%20Trail%20Result/ridge%20regression_wavelength_600-1400_alpha200_max_iter_none.png">
+<img src="https://raw.githubusercontent.com/ian-init/data-preprocessing-and-ML-training/refs/heads/main/Demo%20-%20Trail%20Result/MLP_ALS_MinMaxScaler_pred.png">
